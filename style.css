@@ -1,0 +1,53 @@
+.header{
+    background: #070829;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+.header_area{
+    padding: 0px;
+}
+
+.menu_area{
+    margin-top: 90px;
+}
+
+.menu_area nav a{
+    background-color:#0008ff;
+    color: white;
+    
+}
+
+.cor1{
+    background-color: #070829;
+    width: 150px;
+}
+
+.menu_area nav a:hover{
+    background-color:rgba(252, 250, 250, 0.795);
+   
+}
+
+.active {
+    background-color: #0d1185 !important;
+}
+
+.logo{
+    width: 200px;
+}
+
+.main .card{
+    margin-bottom: 15px;
+}    
+
+.footer{
+    background-color:#070829;  
+    margin-top: 10px;
+    color:white;
+}
+
+.footer_area{
+    padding: 20px;
+    text-align: center;
+}
